@@ -47,16 +47,13 @@ pip install -r requirements.txt
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
-├── Procfile
+├── .gitignore
+├── Explanation of Program(1).pdf
+├── LICENSE
 ├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
+├── UBCF_Recommendation_System.ipynb
+├── movies.csv
+├── ratings.csv
 ```
 
 ## Technologies Used
