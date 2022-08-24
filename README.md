@@ -2,7 +2,6 @@
 
 ## Table of Content
   * [Demo](#demo)
-  * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
@@ -55,8 +54,6 @@ Link: [https://bit.ly/3Ao6a42/](https://bit.ly/3Ao6a42/)
 [![](https://imgur.com/F5Ly0He.png)](https://bit.ly/3Ao6a42/)
 
 [![](https://imgur.com/HdUpsAA.png)](https://bit.ly/3Ao6a42/)
-## Overview
-This is a Flask web app which predicts fare of Flight ticket.
 
 ## Motivation
 What to do when you are at collage and having a strong base of mathematics and keen intrest in learning ML ,DL and AI? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
