@@ -10,7 +10,7 @@
 
 
 ## Demo
-Link: [https://bit.ly/3Ao6a42/](https://bit.ly/3Ao6a42/)
+Link: [https://bit.ly/3Ao6a42/](https://bit.ly/3Ao6a42)
 
 [![](https://imgur.com/lGZz0kk.png)](https://bit.ly/3Ao6a42/)
 
