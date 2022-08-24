@@ -20,6 +20,19 @@ Link: [https://bit.ly/3Ao6a42/](https://bit.ly/3Ao6a42/)
 
 [![](https://imgur.com/NU7pXhm.png)](https://bit.ly/3Ao6a42/)
 
+[![](https://imgur.com/4cNJ0ry.png)](https://bit.ly/3Ao6a42/)
+
+[![](https://imgur.com/78oZpQs.png)](https://bit.ly/3Ao6a42/)
+
+[![](https://imgur.com/YdTYS0i.png)](https://bit.ly/3Ao6a42/)
+
+[![](https://imgur.com/VeUGYgu.png)](https://bit.ly/3Ao6a42/)
+
+[![](https://imgur.com/cVb20jw.png)](https://bit.ly/3Ao6a42/)
+
+[![](https://imgur.com/qWaYsm4.png)](https://bit.ly/3Ao6a42/)
+
+[![](https://imgur.com/8HEGnRV.png)](https://bit.ly/3Ao6a42/)
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
 
