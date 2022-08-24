@@ -5,7 +5,7 @@
   * [Motivation](#motivation)
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Bug  Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
 
@@ -57,7 +57,7 @@ pip install sklearn
 ```
 
 
-## Bug / Feature Request
+## Bug  Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/deeksha-2299/Use_Based_Collaborative_Filtering_in_Recommendation_System/issues) here by including your search query and the expected result
 
