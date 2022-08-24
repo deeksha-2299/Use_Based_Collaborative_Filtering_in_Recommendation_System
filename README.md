@@ -12,47 +12,29 @@
 ## Demo
 Link: [https://bit.ly/3Ao6a42/](https://bit.ly/3Ao6a42)
 
-[![](https://imgur.com/lGZz0kk.png)](https://bit.ly/3Ao6a42/)
+[![](https://imgur.com/lGZz0kk.png)](https://bit.ly/3Ao6a42)
 
-[![](https://imgur.com/cQl6dFa.png)](https://bit.ly/3Ao6a42/)
+[![](https://imgur.com/cQl6dFa.png)](https://bit.ly/3Ao6a42)
 
-[![](https://imgur.com/NU7pXhm.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/4cNJ0ry.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/78oZpQs.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/YdTYS0i.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/VeUGYgu.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/cVb20jw.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/qWaYsm4.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/8HEGnRV.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/X3OvcJV.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/kfScpMG.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/CRn36IV.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/42xMXcZ.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/ZYCvd3l.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/ZYCvd3l.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/KceacgL.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/uqYUbcq.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/zz8vG5h.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/F5Ly0He.png)](https://bit.ly/3Ao6a42/)
-
-[![](https://imgur.com/HdUpsAA.png)](https://bit.ly/3Ao6a42/)
+[![](https://imgur.com/NU7pXhm.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/4cNJ0ry.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/78oZpQs.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/YdTYS0i.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/VeUGYgu.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/cVb20jw.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/qWaYsm4.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/8HEGnRV.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/X3OvcJV.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/kfScpMG.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/CRn36IV.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/42xMXcZ.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/ZYCvd3l.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/ZYCvd3l.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/KceacgL.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/uqYUbcq.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/zz8vG5h.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/F5Ly0He.png)](https://bit.ly/3Ao6a42)
+[![](https://imgur.com/HdUpsAA.png)](https://bit.ly/3Ao6a42)
 
 ## Motivation
 What to do when you are at collage and having a strong base of mathematics and keen intrest in learning ML ,DL and AI? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
